@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2024750048/advance_pdf_viewer.iml" filepath="$PROJECT_DIR$/.idea/modules/2024750048/advance_pdf_viewer.iml" group="android/advance_pdf_viewer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1846989513/flutter_launch.iml" filepath="$PROJECT_DIR$/.idea/modules/-1846989513/flutter_launch.iml" group="android/flutter_launch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1350539822/flutter_webview_plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1350539822/flutter_webview_plugin.iml" group="android/flutter_webview_plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1128867403/path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-1128867403/path_provider.iml" group="android/path_provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-284848488/shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-284848488/shared_preferences.iml" group="android/shared_preferences" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/100220788/sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/100220788/sqflite.iml" group="android/sqflite" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/752496692/url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/752496692/url_launcher.iml" group="android/url_launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/332992368/webview_media.iml" filepath="$PROJECT_DIR$/.idea/modules/332992368/webview_media.iml" group="android/webview_media" />
+    </modules>
+  </component>
+</project>
